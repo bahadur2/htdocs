@@ -40,7 +40,7 @@
 				       		<div class="caption">
 				       		<p>
 							   <a href="remove.php?name='.$result.'" class="btn btn-danger btn-xs" role="button">Remove</a>
-							   <a href="remove.php?name='.$result.'" class="btn btn-danger btn-xs" role="button">AI process</a>  
+							   <a href="ai_process.php?name='.$result.'" class="btn btn-danger btn-xs" role="button">AI process</a>  
 							   </p>
 			       		</div>
 		       		</div>
