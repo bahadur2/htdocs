@@ -41,7 +41,6 @@
 				       		<p>
 							   <a href="remove.php?name='.$result.'" class="btn btn-danger btn-xs" role="button">Remove</a>
 							   <a href="ai_process.php?name='.$result.'" class="btn btn-danger btn-xs" role="button">AI process</a>
-							   <a href="ai_process.php?name='.$result.'" class="btn btn-danger btn-xs" role="button">AI process</a>
 							   </p>
 							<p>
 							   <a href="'.$folder . '/' . $result.'" class="btn btn-primary btn-xs" role="button">View</a>
